@@ -132,7 +132,7 @@ Figure 6: High Level overview of the Software Architecture
 		* As well, I am using Channel 3 on my transmitter to determine if I want to manually control the car or control it autonomously from the Jetson Nano
 			* The Ch3 button on my receiver sends out either a long or short PWM pulse and I am using interrupts on the Arduino to determine the PWM signal. This will determine the           output of the multiplexer through the Select pin. 
 
-Final Result
+**Final Result**
 
 https://www.youtube.com/watch?v=YcdA1ICcbnU&feature=youtu.be
 
