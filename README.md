@@ -135,13 +135,14 @@ Figure 6: High Level overview of the Software Architecture
 Final Result
 
 ![video](https://github.com/oowen98/Autonomous-RC-Car-Milestone-1/blob/master/Videos/AutonomousDrivingClip.mp4)
+
 Figure 7: Video of autonomous driving. 
 
 The car can continuously drive around the track but due to video size limitations, only 1 lap is shown. Toggle the Channel 3 button to choose between autonomous or manual control.
 
 **Conclusion**
 
-I am extremely happy with the hardware platform that is currently setup and I believe there are a lot of things that can be done to drastically improve the vehicle and hopefully be able to drive around the track. I have learned a lot so far and will continue to progress on this project. 
+I am extremely pleased with the hardware platform that is currently setup and I believe there are a lot of improvements that can be done to drastically enhance the vehicle and  be able to drive around an actual Remote Control Car Race track. I have learned a lot so far and will continue to progress on this project. 
 
 **Next Steps**
   * Implement Artificial Intelligence / Machine Learning Algorithms that can be used on this vehicle and take advantage of the GPU on the Jetson Nano.
