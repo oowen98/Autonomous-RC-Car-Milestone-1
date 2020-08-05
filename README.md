@@ -71,6 +71,7 @@ Figure 4: Hardware Schematic
       * Purchasing this from the US and shipping it to Canada was not economically viable so I chose the Arduino Nano + Multiplexer route
 
 ![Multiplexer Pin Diagram](https://github.com/oowen98/Autonomous-RC-Car-Milestone-1/blob/master/Photos/Mux%20Pin%20Connection.PNG)
+
 Figure 5: 74LS157 Multiplexer Pin Diagram
 
 	* ESC / Motor Setup
