@@ -134,7 +134,7 @@ Figure 6: High Level overview of the Software Architecture
 
 Final Result
 
-![video](https://github.com/oowen98/Autonomous-RC-Car-Milestone-1/blob/master/Videos/AutonomousDrivingClip.mp4)
+https://www.youtube.com/watch?v=YcdA1ICcbnU&feature=youtu.be
 
 Figure 7: Video of autonomous driving. 
 
