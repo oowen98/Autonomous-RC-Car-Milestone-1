@@ -143,7 +143,7 @@ The car can continuously drive around the track but due to video size limitation
 I am extremely happy with the hardware platform that is currently setup and I believe there are a lot of things that can be done to drastically improve the vehicle and hopefully be able to drive around the track. I have learned a lot so far and will continue to progress on this project. 
 
 **Next Steps**
-	* Implement Artificial Intelligence / Machine Learning Algorithms that can be used on this vehicle and take advantage of the GPU on the Jetson Nano.
+  * Implement Artificial Intelligence / Machine Learning Algorithms that can be used on this vehicle and take advantage of the GPU on the Jetson Nano.
   * Collect IMU Data to improve the Controls and path planning algorithm
   
   
