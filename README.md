@@ -17,11 +17,12 @@ I integrated my years of racing remote control car experience with the technical
   * Setup all the hardware interfaces using the Nvidia Jetson Nano and the Arduino Nano as the single board computer and microcontroller respectively. 
   * Use computer vision (OpenCV) on the Jetson Nano to identify a green line on the ground (the track) and send out steering and throttle commands to the Arduino Nano, which would     then send out the respective PWM signals to the Servo and the Electronic Speed Controller controlling the Brushed DC Motor.
 
-
+![Car](https://github.com/oowen98/Autonomous-RC-Car-Milestone-1/blob/master/Photos/IMG-3219.jpg)
 Figure 1: Completed car
 
 **Track**
   * 11x7 Feet
+![Track](https://github.com/oowen98/Autonomous-RC-Car-Milestone-1/blob/master/Photos/Track.jpg)
 Figure 2: Track
   
 **High Level Overview - Module Map**
