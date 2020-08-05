@@ -18,16 +18,19 @@ I integrated my years of racing remote control car experience with the technical
   * Use computer vision (OpenCV) on the Jetson Nano to identify a green line on the ground (the track) and send out steering and throttle commands to the Arduino Nano, which would     then send out the respective PWM signals to the Servo and the Electronic Speed Controller controlling the Brushed DC Motor.
 
 ![Car](https://github.com/oowen98/Autonomous-RC-Car-Milestone-1/blob/master/Photos/IMG-3219.jpg)
+
 Figure 1: Completed car
 
 **Track**
   * 11x7 Feet
 ![Track](https://github.com/oowen98/Autonomous-RC-Car-Milestone-1/blob/master/Photos/Track.jpg)
+
 Figure 2: Track
   
 **High Level Overview - Module Map**
   
 ![Module Map](https://github.com/oowen98/Autonomous-RC-Car-Milestone-1/blob/master/Photos/System%20Architecture.png)
+
 Figure 3: High Level System Overview
   
 **Hardware**
@@ -44,6 +47,7 @@ Figure 3: High Level System Overview
   * Flysky GT3B Transmitter and Receiver (3 Channels minimum for your TX / RX)
   
 ![Hardware Schematic](https://github.com/oowen98/Autonomous-RC-Car-Milestone-1/blob/master/Photos/Hardware%20Schematic%20V2.jpg)  
+
 Figure 4: Hardware Schematic
 
 	* Arduino Nano - Nvidia Jetson Connection
@@ -92,6 +96,7 @@ Figure 5: 74LS157 Multiplexer Pin Diagram
 **Software**
 
 ![Software Architecture](https://github.com/oowen98/Autonomous-RC-Car-Milestone-1/blob/master/Photos/Software%20Schematic.png)
+
 Figure 6: High Level overview of the Software Architecture
 
 	* Main.py
