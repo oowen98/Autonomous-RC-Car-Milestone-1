@@ -1,6 +1,6 @@
 # Autonomous-RC-Car-Milestone-1
 
-One of the my hobbies that played a major role in my interest in cars from a younger age was racing 1/10th scale electric and nitro Remote Controlled Cars competitively. Throughout my high school years, I would travel to different races in Washington, Vancouver, and Victoria with the hopes of getting faster and winning races. However, once university kicked off, all of my cars have been sitting on the shelf collecting dust. 
+One of my hobbies that played a major role in my interest in cars from a younger age was racing 1/10th scale electric and nitro Remote Controlled Cars competitively. Throughout my high school years, I would travel to different races in Washington, Vancouver, and Victoria with the hopes of getting faster and winning races. However, once university kicked off, all of my cars have been sitting on the shelf collecting dust. 
 
 Until I began browsing YouTube and seeing videos of Donkey Cars and people adding Raspberry Pi's, Nvidia Jetson Nano's, and all sorts of sensors to make the RC cars drive autonomously around a track. A light bulb shined in my head and I knew I wanted to tackle this project. 
 
